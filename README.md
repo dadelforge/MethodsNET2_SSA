@@ -3,6 +3,7 @@
 This repository provides supporting materials for the short training session "Exploring, Denoising, and Filtering Time Series with Singular Spectrum Analysis" delivered at the MethodsNET 2nd Conference (Louvain-la-Neuve, Belgium; 10–12 September 2025). It contains a hands-on Jupyter notebook and links to the public data used in the exercises.
 
 ## Contents
+- 250910_SSA_MethodsNET2.pdf — slide deck used during the short training session
 - hands_on_tutorial.ipynb — step-by-step SSA walkthrough (decomposition, grouping, reconstruction, visualization)
 - Data sources:
   - DOI: https://doi.org/10.2908/DEMO_R_MWK3_TS
