@@ -17,3 +17,6 @@ This repository provides supporting materials for the short training session "Ex
 ## Terms of use
 All data are subject to the licensing terms of their respective providers (see linked sources). The notebook and accompanying materials are shared for educational purposes.
 
+If you refer to this material or presentation, please use or adapt the following citation:
+
+Delforge, D. (2025, September 10–12). Exploring, Denoising, and Filtering Time Series with Singular Spectrum Analysis (short training session). MethodsNET 2nd Conference, Louvain-la-Neuve, Belgium.
